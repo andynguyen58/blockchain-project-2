@@ -13,4 +13,4 @@
 - ERC-721 Token Name = MyWonderfulStar
 - ERC-721 Token Symbol = MWS
 - “Token Address” on the Goerli Network = 0x601f7c433e1b33fdc429338300f98b8d27bf2829
-- Contract: [https://rinkeby.etherscan.io/address/0xe73b80eeD3238C027cD22b42b87513112a54452E](https://goerli.etherscan.io/address/0x601f7c433e1b33fdc429338300f98b8d27bf2829)
+- Contract: [https://goerli.etherscan.io/address/0x601f7c433e1b33fdc429338300f98b8d27bf2829](https://goerli.etherscan.io/address/0x601f7c433e1b33fdc429338300f98b8d27bf2829)
